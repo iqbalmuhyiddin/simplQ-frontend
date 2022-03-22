@@ -1,0 +1,81 @@
+{
+  "regions": [
+    { "id": 1, "name": "Aceh" },
+    { "id": 2, "name": "Bali" },
+    { "id": 3, "name": "Banten" },
+    { "id": 4, "name": "Bengkulu" },
+    { "id": 5, "name": "DKI Yogyakarta" },
+    { "id": 6, "name": "DKI Jakarta" },
+    { "id": 7, "name": "Gorontalo" },
+    { "id": 8, "name": "Jambi" },
+    { "id": 9, "name": "Jawa Barat" },
+    { "id": 10, "name": "Jawa Tengah" },
+    { "id": 11, "name": "Jawa Timur" },
+    { "id": 12, "name": "Kalimantan Barat" },
+    { "id": 13, "name": "Kalimantan Selatan" },
+    { "id": 14, "name": "Kalimantan Tengah" },
+    { "id": 15, "name": "Kalimantan Timur" },
+    { "id": 16, "name": "Kalimantan Utara" },
+    { "id": 17, "name": "Kepulauan Bangka Belitung" },
+    { "id": 18, "name": "Kepulauan Riau" },
+    { "id": 19, "name": "Lampung" },
+    { "id": 20, "name": "Maluku" },
+    { "id": 21, "name": "Maluku Utara" },
+    { "id": 22, "name": "Nusa Tenggara Barat" },
+    { "id": 23, "name": "Nusa Tenggara Timur" },
+    { "id": 24, "name": "Papua" },
+    { "id": 25, "name": "Papua Barat" },
+    { "id": 26, "name": "Riau" },
+    { "id": 27, "name": "Sulawesi Barat" },
+    { "id": 28, "name": "Sulawesi Selatan" },
+    { "id": 29, "name": "Sulawesi Tengah" },
+    { "id": 30, "name": "Sulawesi Tenggara" },
+    { "id": 31, "name": "Sulawesi Utara" },
+    { "id": 32, "name": "Sumatera Barat" },
+    { "id": 33, "name": "Sumatera Selatan" },
+    { "id": 34, "name": "Sumatera Utara" }
+  ],
+  "categories": [
+    { "id": 1, "name": "Ikan" },
+    { "id": 2, "name": "Pakan" },
+    { "id": 3, "name": "Vitamin" },
+    { "id": 4, "name": "Vitamin" }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Ikan Cupang",
+      "price": 10000,
+      "description": "Et laboris laborum excepteur incididunt aliquip duis exercitation nisi minim qui magna irure tempor. Magna labore laboris ex aliquip anim. In consectetur officia ullamco laborum Lorem consequat quis adipisicing consequat ad exercitation.",
+      "images": [
+        "https://images.unsplash.com/photo-1534043464124-3be32fe000c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxfDB8MXxhbGx8fHx8fHx8fA&ixlib=rb-1.2.1&q=80&w=1080&utm_source=unsplash_source&utm_medium=referral&utm_campaign=api-credit",
+        "https://images.unsplash.com/photo-1544943910-4c1dc44aab44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTYzMzY2MDMxNw&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080"
+      ],
+      "categoryId": 1,
+      "regionId": 1
+    },
+    {
+      "id": 2,
+      "name": "Ikan Nila",
+      "price": 10000,
+      "description": "Et laboris laborum excepteur incididunt aliquip duis exercitation nisi minim qui magna irure tempor. Magna labore laboris ex aliquip anim. In consectetur officia ullamco laborum Lorem consequat quis adipisicing consequat ad exercitation.",
+      "images": [
+        "https://en.wikipedia.org/wiki/Nile_tilapia#/media/File:Til%C3%A1pia_ou_Sarotherodon_niloticus_2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b3/Oreochromis-niloticus-Nairobi.JPG"
+      ],
+      "categoryId": 1,
+      "regionId": 1
+    },
+    {
+      "id": 3,
+      "name": "Ikan Lele",
+      "price": 10000,
+      "description": "Et laboris laborum excepteur incididunt aliquip duis exercitation nisi minim qui magna irure tempor. Magna labore laboris ex aliquip anim. In consectetur officia ullamco laborum Lorem consequat quis adipisicing consequat ad exercitation.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/15/Clarias_batrachus.jpg"
+      ],
+      "categoryId": 1,
+      "regionId": 1
+    }
+  ]
+}
