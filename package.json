@@ -1,0 +1,17 @@
+{
+  "name": "mock-task-fe",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "@iqbalmuhyiddin",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.14.2"
+  },
+  "scripts": {
+    "start": "nodemon server.js",
+    "now:deploy": "now"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
